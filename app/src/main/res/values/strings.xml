@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">AuthApp</string>
+    <string name="started_title">Hello you!</string>
+    <string name="started_subtitle">
+            Nice to meet you, try join to our community!
+            <br><b>Login</b> if you already have account.</br>
+            <br><b>Register</b> to get started with the app.</br>
+        </string>
+    <string name="started_image">people</string>
+    <string name="btn_register">Register</string>
+    <string name="btn_login">Login</string>
+    <string name="login_title">Login in</string>
+</resources>
